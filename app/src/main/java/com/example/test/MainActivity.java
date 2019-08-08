@@ -15,6 +15,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+        //connecting listview with Arraylist
 
         ListView listView =  findViewById(R.id.list_view);
 
